@@ -1,0 +1,1 @@
+# HazeFury-QR-code
